@@ -1,7 +1,7 @@
 ### Olá, Mundo! Me chamo Henrique Azevedo
 
 - 🌱 Estudando Git
-- 📫 Você pode me contatar pelo email: guanabarasb@gmail.com
+- 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
