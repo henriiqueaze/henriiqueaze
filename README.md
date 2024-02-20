@@ -1,6 +1,7 @@
 ### Olá, Mundo! Me chamo Henrique Azevedo
 
-- 🌱 Estudando Git
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na https://unifip.edu.br/curso/26
+- 🌱 Estudando Django
 - 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
