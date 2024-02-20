@@ -1,6 +1,6 @@
 ### Olá, Mundo! Me chamo Henrique Azevedo
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na https://unifip.edu.br/curso/26
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP
 - 🌱 Estudando Django
 - 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com
 - 😄 Pronouns: ele/dele
