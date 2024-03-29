@@ -1,23 +1,34 @@
 ### Olá, Mundo! Me chamo Henrique Azevedo
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP
-- 🌱 Estudando HTML, CSS e JavaScript
-- 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com
+- 🌱 Estudando Java
+- 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com<br>
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/henriiqueaze">
-  <img height="148em" align="center" src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&show_icons=true&theme=dracula&include_all_commits=true&title_color=251bfe&count_private=true"/>
-  <img height="148em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriiqueaze&layout=compact&langs_count=7&theme=dracula&title_color=251bfe"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriiqueaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=true" height="180em" alt="languages graph"  />
 </div>
-<div align='center' style="display: inline_block"><br>
-  <img align="center" alt="henriiqueaze-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align='center' alt='henriiqueaze-MySQL' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="40" />
 </div>
-    
-  <br>
- <div align='center'> 
+
+###
+
  <div align='center'> 
   <a href = "mailto:henriquee.aze.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-azevedo-b2195b2b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/henriiqueaze" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
