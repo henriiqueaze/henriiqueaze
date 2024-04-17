@@ -3,7 +3,6 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP
 - 🌱 Estudando Java
 - 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com<br>
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="165em" alt="stats graph"  />
