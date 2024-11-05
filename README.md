@@ -1,7 +1,7 @@
 ### Olá, Mundo! Me chamo Henrique Azevedo
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP
-- 🌱 Estudando Java
+- 🌱 Estudando Spring
 - 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com<br>
 
 <div align="center">
@@ -18,9 +18,11 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="java logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="40" />
 </div>
 
