@@ -1,12 +1,13 @@
-### Olá, Mundo! Me chamo Henrique Azevedo
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP
-- 🌱 Estudando Spring
-- 📫 Você pode me contatar pelo email: henriquee.aze.dev@gmail.com<br>
+<h1 align="center">Olá, Mundo! Me chamo Henrique Azevedo</h1>
+    <ul>
+        <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP</li>
+        <li>🌱 Estudando Spring</li>
+        <li>📫 Você pode me contatar pelo email: <a href="mailto:henriquee.aze.dev@gmail.com">henriquee.aze.dev@gmail.com</a></li>
+    </ul>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="165em" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriiqueaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=true" height="165em" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriiqueaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="165em" alt="languages graph"/>
 </div>
 
 ###
@@ -31,5 +32,4 @@
  <div align='center'> 
   <a href = "mailto:henriquee.aze.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
