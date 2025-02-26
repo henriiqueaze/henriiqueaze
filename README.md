@@ -1,35 +1,40 @@
-<h1 align="center">Olá, Mundo! Me chamo Henrique Azevedo</h1>
-    <ul>
-        <li>🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFIP</li>
-        <li>🌱 Estudando Spring</li>
-        <li>📫 Você pode me contatar pelo email: <a href="mailto:henriquee.aze.dev@gmail.com">henriquee.aze.dev@gmail.com</a></li>
-    </ul>
+<h1 align="center">👋 Olá, sou Henrique Azevedo</h1>
+
+## 🚀 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFIP**, com foco em **Java** e **Spring**. Estou sempre buscando melhorar minhas habilidades e explorar novas tecnologias. 📚
+
+## 🛠️ Tecnologias que uso
+
+- **Java | Spring | JPA | Hibernate** ☕
+- **Python | Tkinter** 🐍
+- **JavaScript** | **HTML | CSS** 🌐
+- **SQL | MySQL** 💾
+- **Git | GitHub** 🔧
+
+---
+
+## 🌐 Portfólio
+
+Confira meus projetos e desafios no meu portfólio online!  
+👉 [Visite meu Portfólio](https://henriiqueaze.github.io/Portfolio-Henrique/)
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="165em" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriiqueaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="165em" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=henriiqueaze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="165em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriiqueaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="165em" alt="Top Languages"/>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="40" />
-</div>
+## 📫 Vamos conversar?
 
-###
+- **Email**: [henriquee.aze.dev@gmail.com](mailto:henriquee.aze.dev@gmail.com)
+- **LinkedIn**: [Henrique Azevedo](https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/)
 
- <div align='center'> 
-  <a href = "mailto:henriquee.aze.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+🎯 Estou sempre em busca de novos projetos para aplicar meus conhecimentos em desenvolvimento! Vamos trocar ideias! 😄
