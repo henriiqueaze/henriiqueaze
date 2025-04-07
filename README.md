@@ -6,11 +6,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFIP**, com f
 
 ## 🛠️ Tecnologias que uso
 
-- **Java | Spring | JPA | Hibernate** ☕
-- **Python | Tkinter** 🐍
-- **JavaScript** | **HTML | CSS** 🌐
-- **SQL | MySQL** 💾
-- **Git | GitHub** 🔧
+- **Java | Spring | JPA | Hibernate** ☕  
+- **Python | Django | Tkinter** 🐍  
+- **JavaScript | HTML | CSS** 🌐  
+- **SQL | MySQL** 💾  
+- **Git | GitHub** 🔧  
+- **Docker** 🐳  
 
 ---
 
@@ -32,7 +33,7 @@ Confira meus projetos e desafios no meu portfólio online!
 
 ## 📫 Vamos conversar?
 
-- **Email**: [henriquee.aze.dev@gmail.com](mailto:henriquee.aze.dev@gmail.com)
+- **Email**: [henriquee.aze.dev@gmail.com](mailto:henriquee.aze.dev@gmail.com)  
 - **LinkedIn**: [Henrique Azevedo](https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/)
 
 ---
