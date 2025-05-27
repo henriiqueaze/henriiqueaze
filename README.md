@@ -9,7 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFIP**, com f
 - **Java | Spring | JPA | Hibernate** ☕  
 - **Python | Django | Tkinter** 🐍  
 - **JavaScript | HTML | CSS | Bootstrap** 🌐  
-- **SQL | MySQL** 💾  
+- **SQL | MySQL | PostgreSQL** 💾  
 - **Git | GitHub** 🔧  
 - **Docker** 🐳  
 
