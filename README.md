@@ -48,7 +48,11 @@ Confira meus projetos e desafios no meu portfólio online!
 ---
 
 ## 📊 Estatísticas
-  <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriiqueaze&theme=transparent" alt="Profile details" width="98.5%" height="auto"></a>
+  <div align="center">
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriiqueaze&theme=transparent" alt="Profile details" width="98.5%" height="auto"></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriiqueaze&theme=transparent" alt="GitHub stats" width="49.25%" height="auto">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriiqueaze&theme=transparent" alt="Repos per language" width="49.25%" height="auto">
+</div>
 
 ---
 
