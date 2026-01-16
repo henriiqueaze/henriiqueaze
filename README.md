@@ -6,7 +6,7 @@ Sou desenvolvedor full-stack com sólida experiência em diversas linguagens de 
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias
 
 ### 🖥️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -37,6 +37,7 @@ Sou desenvolvedor full-stack com sólida experiência em diversas linguagens de 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -62,5 +63,6 @@ Confira meus projetos e desafios no meu portfólio online!
 - **LinkedIn**: [Henrique Azevedo](https://www.linkedin.com/in/henrique-azevedo-b2195b2b0/)
 
 ---
-
-🎯 Estou sempre em busca de novos projetos para aplicar meus conhecimentos em desenvolvimento! Vamos trocar ideias! 😄
+<div align="center">
+  Estou sempre em busca de novos projetos para aplicar meus conhecimentos em desenvolvimento! Vamos trocar ideias! 😄
+</div>
